@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://achxua.csgad.com/Okm/sitemap.xml.gz
